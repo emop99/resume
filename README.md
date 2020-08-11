@@ -77,7 +77,7 @@ BlogPay 서비스 관리자의 모바일 버전을 개발하였습니다.
 
 ### [Blogpay 마케터 서비스](https://blogpay.co.kr/submenu/info/marketerlink.html)
 - 기간 : 2019.05 ~ 2019.06
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
+- 사용기술 : PHP5.3 Lumen Laravel MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 2명
 - 개발내용 : 
 
