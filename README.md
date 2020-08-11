@@ -142,6 +142,6 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 FrontEnd 부분은 Jquery 모듈화를 통해 소스를 정리 및 공통으로 쓰게 하였고
 
-BackEnd 부분은 MVC 패턴을 적용하였습니다
+BackEnd 부분은 MVC 패턴을 적용하였습니다.
 
 제가 담당했던 부분은 Blogpay 디자인 관리 페이지 부분들이었습니다.
