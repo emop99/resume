@@ -23,6 +23,7 @@
 - Lumen
 - Git Lab
 - CentOS
+- Shell Script
 
 ## 개발 환경 및 프로그램
 - Windows10
@@ -30,6 +31,7 @@
 - Heidisql 
 - Fiddler
 - Mac OS
+- CentOS 7
 - Virtualbox
 - Vagrant
 - SecureCRT
@@ -51,7 +53,7 @@ BlogPay 서비스와 SnsSell 상품 연동을 시키는 부분도 있기에 추�
 
 ### Ezposting 카카오채널 자동답글 서비스 개발
 - 기간 : 2018.12 ~ 2019.01
-- 사용기술 : PHP5.3 Crontab Laravel RestAPI MariaDB Crawling Ajax GitLab
+- 사용기술 : PHP5.3 Crontab Laravel RestAPI MariaDB Crawling Ajax GitLab Javascript JQuery
 - 개발인원 : 1인
 - 개발내용 :
 
@@ -70,8 +72,6 @@ BlogPay 서비스와 SnsSell 상품 연동을 시키는 부분도 있기에 추�
 
 BlogPay 서비스 관리자의 모바일 버전을 개발하였습니다.
 
-디자인팀에서 퍼블리싱된 파일을 주었고 거기에 Javascript, Jquery를 이용해 기능들을 추가하는 작업을 하였습니다.
-
 전담한 페이지는 주문관리, 회원관리, 환경설정 페이지 입니다.
 
 
@@ -83,7 +83,7 @@ BlogPay 서비스 관리자의 모바일 버전을 개발하였습니다.
 
 BlogPay 마케터링크의 전체적인 시스템을 개발하였습니다.
 
-BlogPay 서비스 와의 RESTful API를 설계 및 개발 하였습니다.
+BlogPay 서비스 와의 주문 정산 상품 등을 연동하기위해 RESTful API를 설계 및 개발 하였습니다.
 
 작업은 마케터링크의 부분을 담당하여 개발하였습니다.
 
@@ -98,8 +98,6 @@ BlogPay 서비스 와의 RESTful API를 설계 및 개발 하였습니다.
 
 다해드림 배너 디자인 선택 부분에서 디자인 센터와 연동되는 부분이있고 디자이너 분들께서 사용하실 내부 관리자 페이지도 같이 작업하였습니다.
 
-디자인팀에서 퍼블리싱된 파일을 주었고 거기에 Javascript, Jquery를 이용해 기능들을 추가하는 작업을 하였습니다.
-
 
 ### [Blogpay Basic 관리자 버전 개발](http://blogpay.co.kr/submenu/info/basicadmin.html)
 - 기간 : 2019.09 ~ 2019.11
@@ -107,6 +105,45 @@ BlogPay 서비스 와의 RESTful API를 설계 및 개발 하였습니다.
 - 개발인원 : 1인
 - 개발내용 : 
 
-BlogPay 서비스 관리자의 Basic 버전을 담당하여 개발하였고
+BlogPay 서비스 관리자의 Basic 버전을 담당하였고
 
-디자인팀에서 퍼블리싱된 파일을 주었고 거기에 Javascript, Jquery를 이용해 기능들을 추가하는 작업을 하였습니다.
+기존에 BlogPay 모바일 버전의 관리자의 소스를 활용하여 개발을 진행하였습니다.
+
+
+### [Blogpay 네이버페이 결제수단 추가](https://blogpay.co.kr/submenu/View.html?idx=19556&bbs=snotice&s_select=&s_search=네이버페이)
+- 기간 : 2020.01 ~ 2020.02
+- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
+- 개발인원 : 1인
+- 개발내용 :
+
+결제사의 네이버페이 결제수단이 추가되어 추가로 Blogpay 서비스에 결제수단 추가 작업을하였습니다.
+
+네이버페이 쪽의 검수도 받아야했으며 테스트 계정 및 서버를 만들어 검수를 받았고
+
+추가로 현금영수증 작업시에 결제사에 발행금액을 확인하고 발행을 진행했어야해서 현금영수증 발행시 추가적이 프로세스가 추가되었습니다.
+
+### Blogpay 다해드림 도메인 연장 프로세스
+- 기간 : 2020.04 ~ 2020.04
+- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
+- 개발인원 : 1인
+- 개발내용 :
+
+기존에 다해드림 서비스 신청인원에 도메인등록 기간이 만료되기전에 안내메일 및 문자를 보내고
+
+메일에서 링크를 타고 들어가면 도메인 연장 결제 페이지를 띄워 연장을 시키도록 하는 프로세스 개발을 하였습니다.
+
+연자 프로세스 관리자 페이지도 같이 개발하였습니다.
+
+### Blogpay 스킨
+- 기간 : 2020.02 ~
+- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
+- 개발인원 : 2인
+- 개발내용 :
+
+기존에 있던 Blogpay 디자인 관리 및 쇼핑몰 페이지들을 리팩토링하였고
+
+FrontEnd 부분은 Jquery 모듈화를 통해 소스를 정리 및 공통으로 쓰게하였고
+
+BackEnd 부분은 MVC 패턴을 적용하였습니다
+
+제가 담당했던 부분은 Blogpay 디자인관리 페이지 부분들이였습니다.
