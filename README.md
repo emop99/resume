@@ -141,7 +141,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 연자 프로세스 관리자 페이지도 같이 개발하였습니다.
 
 ### Blogpay 스킨
-- 기간 : 2020.02 ~
+- 기간 : 2020.02 ~ 2020.07
 - 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 2인
 - 개발내용 :
