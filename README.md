@@ -74,6 +74,8 @@ BlogPay 서비스 관리자의 모바일 버전을 개발하였습니다.
 
 전담한 페이지는 주문관리, 회원관리, 환경설정 페이지입니다.
 
+작업 방식은 퍼블리싱된 페이지를 받아 Javascript 및 JQuery를 사용하여 기능을 구현했습니다.
+
 
 ### [Blogpay 마케터 서비스](https://blogpay.co.kr/submenu/info/marketerlink.html)
 - 기간 : 2019.05 ~ 2019.06
@@ -87,6 +89,8 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 작업은 마케터 링크의 부분을 담당하여 개발하였습니다.
 
+작업 방식은 퍼블리싱된 페이지를 받아 Javascript 및 JQuery를 사용하여 기능을 구현했습니다.
+
 
 ### [BlogPay 다해드림 서비스](https://blogpay.co.kr/submenu/info/dahaedream.html) 및 [디자인센터](https://blogpay.co.kr/dc)
 - 기간 : 2019.05 ~ 2019.08
@@ -98,6 +102,8 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 다해드림 배너 디자인 선택 부분에서 디자인 센터와 연동되는 부분이 있고 디자이너 분들께서 사용하실 내부 관리자 페이지도 같이 작업하였습니다.
 
+작업 방식은 퍼블리싱된 페이지를 받아 Javascript 및 JQuery를 사용하여 기능을 구현했습니다.
+
 
 ### [Blogpay Basic 관리자 버전 개발](http://blogpay.co.kr/submenu/info/basicadmin.html)
 - 기간 : 2019.09 ~ 2019.11
@@ -106,6 +112,8 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 - 개발내용 : 
 
 기존에 BlogPay 모바일 버전의 관리자의 소스를 활용하여 개발을 진행하였습니다.
+
+작업 방식은 퍼블리싱된 페이지를 받아 Javascript 및 JQuery를 사용하여 기능을 구현했습니다.
 
 
 ### [Blogpay 네이버페이 결제수단 추가](https://blogpay.co.kr/submenu/View.html?idx=19556&bbs=snotice&s_select=&s_search=네이버페이)
@@ -145,3 +153,5 @@ FrontEnd 부분은 Jquery 모듈화를 통해 소스를 정리 및 공통으로 
 BackEnd 부분은 MVC 패턴을 적용하였습니다.
 
 제가 담당했던 부분은 Blogpay 디자인 관리 페이지 부분들이었습니다.
+
+작업 방식은 퍼블리싱된 페이지를 받아 Javascript 및 JQuery를 사용하여 기능을 구현했습니다.
