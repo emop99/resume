@@ -42,7 +42,7 @@
 
 ### Snssell 서비스와 OwnerClan 서비스와 연동 개발
 - 기간 : 2018.11 ~ 2018.11
-- 사용기술 : PHP5.3 Crontab Laravel RestAPI MariaDB GitLab
+- 사용기술 : PHP5.6 Crontab Laravel RestAPI MariaDB GitLab
 - 개발인원 : 1인
 - 개발내용 :
 
@@ -53,7 +53,7 @@ BlogPay 서비스와 SnsSell 상품 연동을 시키는 부분도 있기에 추�
 
 ### Ezposting 카카오채널 자동답글 서비스 개발
 - 기간 : 2018.12 ~ 2019.01
-- 사용기술 : PHP5.3 Crontab Laravel RestAPI MariaDB Crawling Ajax GitLab Javascript JQuery
+- 사용기술 : PHP5.6 Crontab Laravel RestAPI MariaDB Crawling Ajax GitLab Javascript JQuery
 - 개발인원 : 1인
 - 개발내용 :
 
@@ -66,7 +66,7 @@ BlogPay 서비스와 SnsSell 상품 연동을 시키는 부분도 있기에 추�
 
 ### [Blogpay 관리자 모바일 버전 개발](https://blogpay.co.kr/submenu/View.html?idx=11215&bbs=snotice&s_select=&s_search=모바일)
 - 기간 : 2019.01 ~ 2019.03
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 2명
 - 개발내용 : 
 
@@ -79,7 +79,7 @@ BlogPay 서비스 관리자의 모바일 버전을 개발하였습니다.
 
 ### [Blogpay 마케터 서비스](https://blogpay.co.kr/submenu/info/marketerlink.html)
 - 기간 : 2019.05 ~ 2019.06
-- 사용기술 : PHP5.3 Lumen Laravel MariaDB Ajax GitLab Javascript Jquery
+- 사용기술 : PHP5.6 Lumen Laravel MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 2명
 - 개발내용 : 
 
@@ -94,7 +94,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 ### [BlogPay 다해드림 서비스](https://blogpay.co.kr/submenu/info/dahaedream.html) 및 [디자인센터](https://blogpay.co.kr/dc)
 - 기간 : 2019.05 ~ 2019.08
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab RestAPI Javascript Jquery
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab RestAPI Javascript Jquery
 - 개발인원 : 1인
 - 개발내용 : 
 
@@ -107,7 +107,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 ### [Blogpay Basic 관리자 버전 개발](http://blogpay.co.kr/submenu/info/basicadmin.html)
 - 기간 : 2019.09 ~ 2019.11
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 1인
 - 개발내용 : 
 
@@ -118,7 +118,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 ### [Blogpay 네이버페이 결제수단 추가](https://blogpay.co.kr/submenu/View.html?idx=19556&bbs=snotice&s_select=&s_search=네이버페이)
 - 기간 : 2020.01 ~ 2020.02
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
 - 개발인원 : 1인
 - 개발내용 :
 
@@ -130,7 +130,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 ### Blogpay 다해드림 도메인 연장 프로세스
 - 기간 : 2020.04 ~ 2020.04
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab Javascript Jquery RestAPI
 - 개발인원 : 1인
 - 개발내용 :
 
@@ -142,7 +142,7 @@ BlogPay 서비스와의 주문 정산 상품 등을 연동하기 위해 RESTful 
 
 ### Blogpay 스킨
 - 기간 : 2020.02 ~ 2020.07
-- 사용기술 : PHP5.3 Lumen MariaDB Ajax GitLab Javascript Jquery
+- 사용기술 : PHP5.6 Lumen MariaDB Ajax GitLab Javascript Jquery
 - 개발인원 : 2인
 - 개발내용 :
 
