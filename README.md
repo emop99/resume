@@ -179,7 +179,7 @@ BackEnd 부분은 MVC 패턴을 적용하였습니다.
 게시글들을 관리 하는 관리 페이지도 함께 개발하였습니다.
 작업은 혼자 진행하였습니다.
 
-### 비대면 영어놀이
+### [비대면 영어놀이](https://www.eggcomon.com/login)
 - 기간 2021-01 ~ 2021-03
 - 사용 기술 : PHP7.0 MYSQL Javascript Jquery SVN RestAPI Laravel5.5
 - 개발 인원 : 1명
@@ -192,8 +192,8 @@ BackEnd 부분은 MVC 패턴을 적용하였습니다.
 
 작업은 혼자 진행하였습니다.
 
-### Kinder
-- 기간 2021-02 ~ 진행중
+### [Kinder](https://k.eggschool.net/home)
+- 기간 2021-02 ~ 2021-05
 - 사용 기술 : PHP7.4 MYSQL Javascript Jquery SVN RestAPI Laravel8.0
 - 개발 인원 : 2명
 - 개발 내용 :
