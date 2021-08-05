@@ -34,6 +34,7 @@
 - CentOS
 - Shell Script
 - SVN
+- Docker
 
 ## 개발 환경 및 프로그램
 - Windows10
